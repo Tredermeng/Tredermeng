@@ -1,5 +1,5 @@
 <!-- GitHub Profile -->
-(VID-20240711-WA0002.gif)
+(./VID-20240711-WA0002.gif)
 <!-- Profile -->
 <p align="left"><strong><samp></samp></strong></p>
   <p align="center">
