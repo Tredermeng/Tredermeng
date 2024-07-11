@@ -1,20 +1,34 @@
-<!-- GitHub Profile -->
-![Banner](VID-20240711-WA0002.gif)
+<image align="center" width="100%" src="https://cdn.pixabay.com/video/2021/04/15/71122-537102350_large.mp4">
 <!-- Profile -->
-<p align="left"><strong><samp></samp></strong></p>
+<p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
     <samp>
+    <br>
+        <image src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B39136&center=true&random=false&width=435&lines=Programming+I+feel+nice">
+        <!-- ![]()  -->
       <br>
-      <image src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5F5F5F¢er=FALSO&vCenter=FALSO&repeat=&random=&width=435&lines=¡Holaaa!!+bienvenidos+a+mi+código.">
-      <!-- ![]()  -->
       <b>
+        ░░░░░░░░░░░░░░░░░░░░░▄▀░░▌
+        ░░░░░░░░░░░░░░░░░░░▄▀▐░░░▌
+        ░░░░░░░░░░░░░░░░▄▀▀▒▐▒░░░▌
+        ░░░░░▄▀▀▄░░░▄▄▀▀▒▒▒▒▌▒▒░░▌
+        ░░░░▐▒░░░▀▄▀▒▒▒▒▒▒▒▒▒▒▒▒▒█
+        ░░░░▌▒░░░░▒▀▄▒▒▒▒▒▒▒▒▒▒▒▒▒▀▄
+        ░░░░▐▒░░░░░▒▒▒▒▒▒▒▒▒▌▒▐▒▒▒▒▒▀▄
+        ░░░░▌▀▄░░▒▒▒▒▒▒▒▒▐▒▒▒▌▒▌▒▄▄▒▒▐
+        ░░░▌▌▒▒▀▒▒▒▒▒▒▒▒▒▒▐▒▒▒▒▒█▄█▌▒▒▌
+        ░▄▀▒▐▒▒▒▒▒▒▒▒▒▒▒▄▀█▌▒▒▒▒▒▀▀▒▒▐░░░▄
+        ▀▒▒▒▒▌▒▒▒▒▒▒▒▄▒▐███▌▄▒▒▒▒▒▒▒▄▀▀▀▀
+        ▒▒▒▒▒▐▒▒▒▒▒▄▀▒▒▒▀▀▀▒▒▒▒▄█▀░░▒▌▀▀▄▄
+        ▒▒▒▒▒▒█▒▄▄▀▒▒▒▒▒▒▒▒▒▒▒░░▐▒▀▄▀▄░░░░▀
+        ▒▒▒▒▒▒▒█▒▒▒▒▒▒▒▒▒▄▒▒▒▒▄▀▒▒▒▌░░▀▄
+        ▒▒▒▒▒▒▒▒▀▄▒▒▒▒▒▒▒▒▀▀▀▀▒▒▒▄▀
+      <br>
         × Gabriel Costero × 
       </b>
+    </samp>
   </p>
-      <b>
-        × Gabriel Costero × 
-      </b>
-  </p>
+<p align="right"><strong><samp></samp></strong></p>
 
 <div align="center">
    <samp><b>♒︎ Conocimiento ♒︎</b></samp>
