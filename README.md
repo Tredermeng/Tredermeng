@@ -9,7 +9,7 @@
       <b>
       </b>
       <br>
-        <image src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Coding+is+creating+your+own+world+(￣ヘ￣)">
+        <image src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Coding+is+creating+your+own+world+(￣ω￣)">
         <!-- ![]()  -->
       <b>
       <br>
