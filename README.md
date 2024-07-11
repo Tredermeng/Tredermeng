@@ -12,7 +12,8 @@
         <image src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Heeellooo!!+welcome+to+me+code.">
         <!-- ![]()  -->
       <b>
-        𝓇 Gabriel Costero 𝓇
+      <br>
+        ┉┅━━━━━• Gabriel Costero •━━━━━┅┉
       </b>
     </samp>
   </p>
