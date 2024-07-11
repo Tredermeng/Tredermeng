@@ -7,13 +7,13 @@
         <image src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B39136&center=true&random=false&width=435&lines=Programming+I+feel+nice">
         <!-- ![]()  -->
       <br>
-      <br>
         × Gabriel Costero × 
       </b>
     </samp>
   </p>
 <p align="right"><strong><samp></samp></strong></p>
-
+<br>
+          
 <div align="center">
    <samp><b>♒︎ Conocimiento ♒︎</b></samp>
    <div align="center">
