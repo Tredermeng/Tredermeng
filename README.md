@@ -6,7 +6,7 @@
   <p align="center">
     <samp>
     <br>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=!Heeellooo%C2%A1" alt="Typing SVG" /></a>
+      <image src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B39136&center=true&random=false&width=435&lines=Programming+I+feel+nice">
         <!-- ![]()  -->
       <br>
       <b>
@@ -28,10 +28,8 @@
       <br>
         × Gabriel Costero × 
       </b>
-    </samp>
   </p>
 
-<br> <br>
 <div align="center">
    <samp><b>♒︎ Conocimiento ♒︎</b></samp>
    <div align="center">
