@@ -6,7 +6,7 @@
   <p align="center">
     <samp>
     <br>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=!Heeellooo%C2%A1" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=!Heeellooo%C2%A1" alt="Typing SVG" /></a>
         <!-- ![]()  -->
       <br>
       <b>
@@ -34,18 +34,6 @@
 
 <br>
 
-<div align="center">
-   <samp><b>♒︎ Conocimiento ♒︎</b></samp>
-   <div align="center">
-       <image width="30"
-       style="background-color: #444; border-radius: 5px; padding:2px;"src="https://blog.chuidiang.org/wp-content/uploads/spring-boot.png">
-       <image width="30"
-       style="background-color: #444; border-radius: 5px; padding:2px;"src="https://cdn-icons-png.freepik.com/512/4248/4248443.png">
-      <image width="30" style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-3521596-2945040.png">
-       <image width="30" style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png">
-       <image width="30" style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png">
-   </div> 
-</div>
 <br> <br>
 <div align="center">
    <samp><b>♒︎ Conocimiento ♒︎</b></samp>
@@ -57,7 +45,7 @@
 
 <br> <br>
 <div align="center">
-   <samp><b>[ Others ]</b></samp>
+   <samp><b>♒︎ Por Aprender ♒︎</b></samp>
    <div align="center">
        <image width="30"style="background-color: #fff; border-radius: 5px; padding:2px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png">
        <image width="30"style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
@@ -67,15 +55,15 @@
        <image width="30"style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn-icons-png.flaticon.com/512/732/732212.png">
        <image width="30"
        style="background-color: #444; border-radius: 5px; padding:2px;"src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png">
-       <image width="30" style="background-color: #444; border-radius: 5px; padding:2px;" src="https://cdn-icons-png.freepik.com/512/5968/5968381.png">
    </div> 
 </div>
 
 
-
+<h2></h2><br>
 <!-- Contact Me -->
 <p align="center">
   <samp>  
     Correo electronico [<a href="mailto:gabrielcostero515@gmail.com">e-mail</a>]
   </samp>
 </p>
+<h2></h2><br>
