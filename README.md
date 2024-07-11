@@ -1,6 +1,7 @@
 <!-- Rxyhn's Aesthetic GitHub Profile -->
 <div align="justify">
-<image align="center" width="100%" src="https://cdn.discordapp.com/attachments/1030645279583649803/1261085447946240080/large.gif?ex=6691acd8&is=66905b58&hm=954bf4b6a1a6092e8a19ccaa62174e376b1abe5efea7fd1f2bcd07f7d0bae6b6&">
+  <img align="center" width="100%" src="large.gif">
+</div>
 <!-- Profile -->
 <p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
