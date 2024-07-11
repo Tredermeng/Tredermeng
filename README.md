@@ -5,11 +5,8 @@
   <p align="center">
     <samp>
     <br>
-      <image src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5CBDB4&center=FALSO&vCenter=FALSO&repeat=&random=&width=435&lines=Heeellooo!!+welcome+to+my+code.">
-        <!-- ![]()  -->
-      <br>
+      <image src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5F5F5F&center=FALSO&vCenter=FALSO&repeat=&random=&width=435&lines=Heeellooo!!+welcome+to+my+code.">
       <b>
-      <br>
         × Gabriel Costero × 
       </b>
   </p>
