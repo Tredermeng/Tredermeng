@@ -9,7 +9,7 @@
       <b>
       </b>
       <br>
-        <image src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Heeellooo!!+welcome+to+me+code.">
+        <image src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Coding+is+creating+your+own+world+:D">
         <!-- ![]()  -->
       <b>
       <br>
@@ -17,7 +17,7 @@
       </b>
     </samp>
   </p>
-<p align="right"><strong><samp>」</samp></strong></p>
+<p align="right"><strong><samp></samp></strong></p>
 
 <br>
 
