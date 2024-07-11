@@ -2,7 +2,7 @@
 <div align="justify">
 <image align="center" width="100%" src="https://cdn.pixabay.com/video/2021/04/15/71122-537102350_large.mp4">
 <!-- Profile -->
-<p align="left"><strong><samp>「</samp></strong></p>
+<p align="left"><strong><samp></samp></strong></p>
   <p align="center">
     <samp>
     <br>
@@ -30,9 +30,7 @@
       </b>
     </samp>
   </p>
-<p align="right"><strong><samp>」</samp></strong></p>
-
-<br>
+<p align="right"><strong><samp></samp></strong></p>
 
 <br> <br>
 <div align="center">
