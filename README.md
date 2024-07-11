@@ -1,6 +1,5 @@
 <!-- Rxyhn's Aesthetic GitHub Profile -->
-<div align="justify">
-<image align="center" width="100%" src="https://cdn.pixabay.com/video/2021/04/15/71122-537102350_large.mp4">
+!Banner](large.gif)
 <!-- Profile -->
 <p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
