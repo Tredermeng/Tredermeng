@@ -1,5 +1,6 @@
 <!-- Rxyhn's Aesthetic GitHub Profile -->
-![Banner](large.gif)
+<div align="justify">
+<image align="center" width="100%" src=![Banner](large.gif)>
 <!-- Profile -->
 <p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
