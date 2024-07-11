@@ -4,7 +4,7 @@
   <p align="center">
     <samp>
     <br>
-        <image src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B39136&center=true&random=false&width=435&lines=Programming+I+feel+nice">
+        <image src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Heeellooo!!+welcome+to+me+code.)">
         <!-- ![]()  -->
       <br>
         × Gabriel Costero × 
