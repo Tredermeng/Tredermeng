@@ -1,6 +1,5 @@
 <!-- GitHub Profile -->
-<div align="justify">
-<image align="center" width="100%" src="https://cdn.pixabay.com/video/2021/04/15/71122-537102350_large.mp4">
+(VID-20240711-WA0002.gif)
 <!-- Profile -->
 <p align="left"><strong><samp></samp></strong></p>
   <p align="center">
@@ -10,7 +9,6 @@
         <!-- ![]()  -->
       <br>
       <b>
-        fino
       <br>
         × Gabriel Costero × 
       </b>
