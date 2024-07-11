@@ -6,7 +6,7 @@
   <p align="center">
     <samp>
     <br>
-      <image src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=!Heeellooo%C2%A1">
+      <image src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=&vCenter=&repeat=verdadero&random=FALSO&width=435&lines=!Heeellooo%C2%A1">
         <!-- ![]()  -->
       <br>
       <b>
