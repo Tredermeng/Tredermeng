@@ -13,9 +13,8 @@
         <!-- ![]()  -->
       <b>
       <br>
-        ┉┅━━━━━• Gabriel Costero •━━━━━┅┉
-      </b>
-    </samp>
+      <hr>
+        
   </p>
 <p align="right"><strong><samp></samp></strong></p>
 
